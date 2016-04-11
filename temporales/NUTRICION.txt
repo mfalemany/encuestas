@@ -1,0 +1,841 @@
+Encuesta|Elemento evaluado|Bloque|Código de Pregunta|Pregunta|Valor de Respuesta|Usuario|Respondido por
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Pertinentes||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Pertinentes||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Pertinentes||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Pertinentes||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Pertinentes||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Pertinentes||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Pertinentes||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Pertinentes||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Poco Pertinentes||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Pertinentes||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Pertinentes||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Pertinentes||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Pertinentes||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Pertinentes||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Poco Pertinentes||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Poco Pertinentes||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Pertinentes||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Pertinentes||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Excesiva||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Alta||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Alta||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Baja||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Alta||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Alta||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Alta||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Alta||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Excesiva||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Excesiva||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Excesiva||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Excesiva||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Alta||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Excesiva||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Alta||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Alta||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Alta||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Excesiva||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Alta||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Excesiva||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Alta||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Excesiva||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Alta||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Baja||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Alta||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Alta||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Excesiva||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Excesiva||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Alta||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Alta||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Excesiva||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Excesiva||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Excesiva||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Excesiva||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Alta||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Excesiva||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Baja||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Alta||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Alta||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Excesiva||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Alta||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Alta||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Alta||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Baja||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Más del doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Más del doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Más del doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Más del doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Más del doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Más del doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Más del doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Más del doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Más del doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Más del doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Más del doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Más del doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Más del doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Más del doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Más del doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Más del doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Más del doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Más del doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Más del doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Más del doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Más del doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Más del doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Más del doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Más del doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Más del doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Más del doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|La mitad del tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Más del doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|La mitad del tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Deficiente||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Deficiente||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Deficiente||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Deficiente||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Muy Bueno||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Deficiente||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Deficiente||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Deficiente||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Deficiente||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Deficiente||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Muy Bueno||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Deficiente||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Deficiente||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Deficiente||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Deficiente||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Deficiente||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Deficiente||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Deficiente||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Deficiente||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Deficiente||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Muy Bueno||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Deficiente||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Muy Bueno||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Deficiente||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Deficiente||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Deficiente||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Deficiente||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Muy Bueno||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Muy Bueno||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Deficiente||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Deficiente||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Deficiente||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Inadecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Inadecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Inadecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Inadecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Inadecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Inadecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Inadecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Inadecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Inadecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Inadecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Inadecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Inadecuado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|B||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|A||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|El profesor no usa power point, por lo que es muy difícil seguir las clases, porque algunas veces olvida mencionar algunos datos importantes, las teorías también son desorganizadas, la cátedra no tiene un cronograma y para el alumno es difícil leer un tema antes de la teoría porque nunca se sabe que van a desarrollar en la siguiente.||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|no opino||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|.||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|MUY BUENO||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|Considero que 1,30 hs de clases prácticas es muy poco, no alcanza el tiempo para corregir los ejercicios ni tampoco para volver a ver algo que no se entendió.   Me hubiese gustado que nos den unas clases prácticas para trabajar con excel en la sala de informática y enseñarnos a diseñar planillas y analizarlas.   Y reitero 1,30 hs de clases prácticas es poco tiempo. ||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|Muy bueno||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|no tengo observaciones que hacer al respecto.||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|muy buenas clases||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|...||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|Nada en particular||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:| -||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|.||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|.||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|.||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|S||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|no opino||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|Nada||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|NINGUNA||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|no opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|.||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|.||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|.||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|malo||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|Debiera volver a dictarse la parte de fisiología digestiva de los rumiantes.||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|.............||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|J||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|,||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|Considero que los docentes que pertenecen a la cátedra tienen cada uno un concepto diferente de los temas, que repercute a la hora de la corrección de los parciales.  Ademas creo que se podrían realizar algún viaje, ya que es una materia importante en el tercer añp||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|No Opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|Bueno||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|no opino||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|La cátedra tendría que tener un poco de mas organización y disponer los cronogramas de las clases: teórico, practico, fechas de parciales y dictar todos los temas acorde al programa que no se cumplieron y no se dictaron.     ||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|Ninguna||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|.||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|.||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|NINGUNA||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|Bien||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|bueno||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|faltaría mas preparación del Docente para el dictado de las Trabajos Prácticos. ||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|.  ||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|NO OPINA||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|- ||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|Ninguna||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|No opino||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|j||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|NO OPINA||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|Muy interesante||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|no opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|MUY ADECUADO||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|,||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|.||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|falta de uso de un powerp.   los temas dictados se dan de forma poco organizada.||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|.||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|no opino||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|NO SALIMOS A CAMPO||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|...||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|ninguna||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|ninguna||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|,k    ||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|corrijan los parciales a conciencia y viendo que el alumno entiendo y no de modo sistemático letra por letra que vergüenza.||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|.||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|..||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|.||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|NADA||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|Muy buenas clases teoricas||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|NO OPINA||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|NO OPINA||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|no opino||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|...||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|no opino||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|.||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|NO OPINO||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|bueno||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|Demasiada exigencia para promocionar||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|Me quede libre en la cursada||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|no se realizaron salidas a campo, las cuales considero necesarias teniendo en cuenta los contenidos desarrollados en la materia. ||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|bueno||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|.||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|Muy desorganizado el dictado de clase y las fechas de los parciales, nunca existió un cronograma de las fechas de clases parciales etc..  ||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|Buena e importante materia para nuestra profesion||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|Excelente cursado||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|no opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|buena||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|ninguna  ||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|Bueno||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|...||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|Muy buena materia||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|.||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|No opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|BUENO||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|no||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|no hay||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|ninguna||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|En lo posible, se debería realizar clases especiales y apuntes de fisiología animal para los alumnos que no cursaron Fisiología y Anatomia animal, ya que les faltarían esos conocimientos para comprender mejor los temas que se darían en Nutrición Animal.||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|buena||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|falto powerpoin en las clases teoricas para mayor orientación de los alumnos a la asignatura.||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|no opino||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|no tenían un cronograma de clases, ||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|muy buenas clases, pero falta seguir bien un cronograma de clases, al pie del programa||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|Bueno ||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|,  ||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|no opina||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|yuw3564hrtsysherjsyhryjs||--
+ENCUESTA CÁTEDRA|NUTRICION  ANIMAL (69.)|CATEDRAS|10007|Observaciones:|-||--

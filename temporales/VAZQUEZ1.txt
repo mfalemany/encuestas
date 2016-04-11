@@ -1,0 +1,1217 @@
+Encuesta|Elemento evaluado|Bloque|Código de Pregunta|Pregunta|Valor de Respuesta|Usuario|Respondido por
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|CONFORME||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|ninguna||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|BUEN DOCENTE||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|buen profesor||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|...||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|nada||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|ninguno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Deficiente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Regular||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Regular||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Regular||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Regular||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Regular||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Regular||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Regular||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Regular||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Poco Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Poco Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Poco Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Poco Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Poco Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Poco Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Poco Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Poco Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Insuficiente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Regular||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Regular||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Regular||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Regular||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Regular||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Regular||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Regular||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Regular||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Regular||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Regular||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Nunca||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Nunca||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|A veces||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|A veces||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|A veces||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|A veces||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|A veces||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|A veces||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|A veces||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|A veces||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|A veces||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|A veces||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Inadecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Poco Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Poco Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Poco Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Poco Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Poco Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Deficiente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Regular||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Regular||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Deficiente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Regular||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Regular||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Regular||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Regular||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Regular||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|MUY COMPETENTE||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|hacele un favor a la facu y retirate. ya esta tu ciclo, andate. ||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|ninguno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|nada||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|muy buen desempeño ||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|Muy bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|.....||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|Muy buena.||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|´-||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|Xx||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|NO OPINA||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|muy bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|bueno.||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|:)||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|NO OPINA||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|Falta mas didáctica y entrega para con las teorías, muy poco comprensibles. ||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|Conforme.||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|no opino||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|Ninguna||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|ninguna||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|m||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|No opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|re33||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|Ingeniera, se nota que sabe mucho y la felicito por eso, pero no se la crea. Usted está ahí para servir a la comunidad que pide a gritos buenos profesionales. Lamentablemente la cursada fue deplorable. Me pregunto qué miran y evalúan para que alguien sea profesor; me refiero al práctico, hay profesores que no saben desenvolverse, no pueden ni logran explicar lo que saben, hacen que las clases sean mucho más largas y monótonas de lo normal dando vueltas sobre lo mismo, no resolviendo las inquietudes de los alumnos.  No solo las demás áreas son las responsables del pésimo nivel de los alumnos, ustedes como cátedra y particularmente usted como cara visible y máxima autoridad de esta institución son responsables. Nadie dice que sea fácil, pero si no son capaces de hacer las cosas como se debe den un paso al costado.||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|No opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|Buena profesora||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|no opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|SIN COMENTARIOS||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|No opino||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|no opino||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|NO OPINO||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|A||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|ninguna||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|no opino||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|NO OPINO||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|BUENA||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|Buen dictado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|..||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|Hdgdhd||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|..||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|--||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|NINGUNA||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|..||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|no opino||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|NO OPINO||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|NO OPINA||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|--||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|j||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|No opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|NO OPINA||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|No opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|No opima||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|..||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|Debería manejar su arrogancia ||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|ninguna||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|Dificultad para hacerse entender en algunos temas||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:| ||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|.....||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|sin observaciones||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|excelente profesora||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|buena||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|BUENO||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|buena profesora||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|..||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|Muy bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|BUENA PROFESORA||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Poco Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Poco Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Regular||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Regular||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|A veces||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Regular||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|sin comentarios||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|Muy buenas clases.||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|No tiene||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|ninguna||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|muy bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|No Opina||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|.................||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|NINGUNA||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|bueno||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|Sin observaciones||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|VAZQUEZ SARA|DOCENTE|10007|Observaciones:|-||--

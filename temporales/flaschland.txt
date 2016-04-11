@@ -1,0 +1,1033 @@
+Encuesta|Elemento evaluado|Bloque|Código de Pregunta|Pregunta|Valor de Respuesta|Usuario|Respondido por
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Regular||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Regular||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Regular||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Poco Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Insuficiente||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|A veces||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|A veces||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Poco Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Poco Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Deficiente||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|muy bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|capo||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|Excelente!||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|ninguna||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|nada||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|No opina. ||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|El mejor profesor de todos||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|Muy bueno, sus clases son muy lindas||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|las clases se entendieron muy bien||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|...||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|EXCELENTE PROFESOR! ||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|...||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|El ingeniero siempre está predispuesto a responder inquietudes. Muy bueno.||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|Mejor docente de la catedra.||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|. ||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|No opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|Deberían  haber mas profesores com el ||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|no opino||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|:)||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|Las mejores teoria dictadas, muy didactico. Excelente profesional||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|NO OPINA||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|No opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|Excelente didáctica. La teoría de Nitrógeno muy buena clases.||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|clases claras||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|Buen Desempeño.||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|no opino||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|excelente desempeño||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|sin comentarios||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|ninguna||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|m||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|MUY BUENO||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|no opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|No opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|  ||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|....||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|MUY BUENO||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|No opino.||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|Sin comentarios al respecto.||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|No opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|no opino||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|Ninguna a dar!!!||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|Buen profesor ||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|EXELENTE||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|Un genio ||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|ninguna||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|no opino||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|Bueno ||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|MUY BUENO||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|Ninguna||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|muy bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|muy bueno||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|un excelente profesor||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|Excelentes clases y muy didáctica!||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|ninguna||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|No opino||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|BUENO||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|Muy rico los choris jaja exelente profe ||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|Exelente||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|Clases muy satisfactorias y entendibles. Excelente profesor.||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|--||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|ninguna||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|EXCELENTE PROFESOR||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|Un fenómeno el Ing. Siempre haciendo entender facil lo que parece difícil, orgulloso de que sea mi profe!||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|:)||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|excelente ingeniero y profesor.||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|El docente debería aprender a respetar los derechos de los alumnos y ser menos violento. No agredir a los alumnos, ni física ni verbalmente, sin diferencia de sus "razones".||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|Excelente profesor, su manera de dar las clases despierta muchísimo interés por la asignatura y genera una muy buena comprensión de los temas. Siempre dispuesto a responder las dudas y explicando las veces que sea necesario para que todos los alumnos entiendan.  Destaco además la manera del profesor de relacionar todos los contenidos con la profesion y como se pueden aplicar los mismos a situaciones laborales.||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|DEMASIDO BUENO||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|--||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|no opina||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|Exelente profesor||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|Buena predisposición||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|NO||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|NO OPINA||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|BUENO||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|.  ||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|...||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|Muy buen profesor ||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|ninguna||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|sin observaciones||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|ninguna||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|ninguna||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|excelente profesor!  muy atento y correcto.||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|ninguna||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|MUY BUENO||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|ni una||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|FLACHSLAND EDUARDO ALBERTO|DOCENTE|10007|Observaciones:|EXCELENTE PROFESOR||--

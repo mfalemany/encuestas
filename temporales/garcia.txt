@@ -1,0 +1,521 @@
+Encuesta|Elemento evaluado|Bloque|Código de Pregunta|Pregunta|Valor de Respuesta|Usuario|Respondido por
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Regular||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Regular||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Poco Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Poco Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Regular||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Regular||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|A veces||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|A veces||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Poco Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Regular||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Regular||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Regular||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|buena||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|asd||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|Muy buen desarrollo de los temas dictados||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|Ninguna||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|Ninguna||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|,||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|**||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|MUY BUENO||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|Sin observaciones||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|ninguno  ||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|excelente||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|no opino||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|...||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|..||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|muy buen docente||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|Muy bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|Excelentes clases y muy buena disposición a aclarar cualquier inconveniente surgido.||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|muy bueno||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|##||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|d||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|No opino ||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|Bien||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|..||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|ninguna||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|Genial. MUY MUY bueno como profesor. El barrilete cósmico del algodon||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|muy buen dominio de temas, y muy buena predispicion||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|NINGUNA||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|..||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|NINGUNA||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|muy buen docente||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|j||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|GARCIA JORGE|DOCENTE|10007|Observaciones:|ninguna||--

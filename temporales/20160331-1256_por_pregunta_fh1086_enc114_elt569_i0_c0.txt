@@ -1,0 +1,771 @@
+Encuesta|Elemento evaluado|Bloque|Código de Pregunta|Pregunta|Valor de Respuesta|Usuario|Respondido por
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Alta||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Alta||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Alta||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Alta||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Alta||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Alta||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Excesiva||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Excesiva||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Excesiva||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Excesiva||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Alta||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Alta||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Alta||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Alta||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Alta||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Excesiva||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Excesiva||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Excesiva||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Alta||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Excesiva||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Alta||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Alta||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Excesiva||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Baja||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|La mitad del tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Más del doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Más del doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|La mitad del tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Más del doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Más del doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|La mitad del tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|La mitad del tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Más del doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Más del doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|La mitad del tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Más del doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Más del doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Más del doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|La mitad del tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Deficiente||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Deficiente||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Muy Bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Muy Bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Deficiente||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Deficiente||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Deficiente||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Muy Bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Muy Bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Deficiente||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Deficiente||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Muy Bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Deficiente||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Deficiente||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Muy Bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Muy Bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Deficiente||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Muy Bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Deficiente||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Deficiente||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Inadecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Inadecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Inadecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Inadecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|Buena materia. Buena cátedra.||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|linda materia||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|Ninguna||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|BUENO||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|regular||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|Conforme con el dictado de la materia||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|57||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|Buena materia.||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|Muy Bien desarrollado los temas...||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|no curse ||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|no opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|.||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|...||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|muy bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|.||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|0||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|ninguna||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|mUY BUENA||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|no opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|NINGUNA||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|...||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|N||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|no curse||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|Sin comentarios ||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|.||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|NS/NC||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|**||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|.||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|No opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|.||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|...||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|*  ||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|NO OPINO||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|LA VERDAD QUE ES MUY BUENA LA  MATERIA..SERIA BUENA DIVIDIRLA EN PARTES YA QUE AL TENER MUCHO CONTENIDOS SE APROBECHA MUY POCO EL APRENDIZAJE DE LOS ALUNMOS. POR EJEMPLO SERIA BUENO SEPARAR TODO LO QUE ES OVINO DE LA MATERIA Y DARLO POR SEPARADO COMO UNA MATERIA MAS ASI SE APROBECHARIA Y SE APRENDERIA MEJOR. GRACIAS||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|interesante materia  ||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|no opino||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|Para los próximos años, sería bueno organizar mejor el horario de clases y hacer todo a la mañana o todo  la tarde. Me pareció poco productiva la distribución del horario ya que te cortaba mucho el día||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|Ninguna||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|----||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|Me parece una materia muy interesante ||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|s||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|cumplió con las expectativas||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|.||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|excelente||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|Buena asignatura, muy bien dada||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|Mucha importancia a la producción ovina para la importancia en producción de la región, siendo además que contamos con una optativa de dicha producción. ||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|,||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|muy buenas clases||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|Mucho hincapié en la producción ovina, siendo que existe  una optativa de dicha área||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|.||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|....||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|BUENO||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|ninguna||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|NO OPINA||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|a||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|BUENO||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|x||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|exelente asignatura,dictado de clases y en las exigencias para regularizar la materia  ||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|...||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|Muy buena asignatura, se podria agregar un cronograma de actividades y temas a desarrollar al comienzo del cursado para una mejor planificacion||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|Me hubiera gustado que haya un titular de cátedra.||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|buena||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|En el segundo parcial bajaron mucho la exigencia||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|No opinaa    ||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|.||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|MUY BUENA||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|bueno||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|---------------------------------------||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|Bueno ||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|MUY INTERESANTE Y ENRIQUECEDOR ||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|Se le da demaciada importancia a la producción ovina y nada a otras producciones. ||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|.||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|Un poco mas de articulación con las otras materias de producción animal para realizar viajes conjuntos o mancomunar conceptos||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:| -||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|.||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|.||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|NINGUNA||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|ss||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|ninguna||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|Bueno ||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|ES LA SEGUNDA VEZ QUE CURSO Y QUEDO LIBRE.. UN RECUPERATORIO MAS QUE DIFICIL HICIERON..EL PRIMER PARCIAL EL 80% DESAPROBARON.. TODAVIA NO ENTIENDO CUAL ES EL OBJETIVO DE DEJAR LIBRES MUCHOS ALUMNOS SI AL SIGUIENTE SE LES AMONTONAN Y CADA VEZ ES PEOR||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|NO OPINO||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|..||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|ninguna||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|bien||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|REGULAR  ||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|sería pertinente un material didáctico actualizado||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|..||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|no opina||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|tener mas organizada la catedra||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|NINGUNA||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|.||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|.||--
+ENCUESTA CÁTEDRA|ZOOTECNIA (80.)|CATEDRAS|10007|Observaciones:|.||--

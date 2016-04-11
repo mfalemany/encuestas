@@ -1,0 +1,911 @@
+Encuesta|Elemento evaluado|Bloque|Código de Pregunta|Pregunta|Valor de Respuesta|Usuario|Respondido por
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Pertinentes||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Pertinentes||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Pertinentes||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Poco Pertinentes||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Pertinentes||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Poco Pertinentes||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Pertinentes||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Poco Pertinentes||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Alta||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Alta||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Baja||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Alta||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Baja||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Excesiva||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Baja||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Baja||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Excesiva||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Baja||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Baja||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Alta||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|La mitad del tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|La mitad del tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|La mitad del tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|La mitad del tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|La mitad del tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|La mitad del tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|La mitad del tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|La mitad del tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|La mitad del tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|La mitad del tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|La mitad del tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|La mitad del tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Más del doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Más del doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|La mitad del tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|La mitad del tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|La mitad del tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Más del doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|La mitad del tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|La mitad del tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|La mitad del tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|La mitad del tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|La mitad del tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Muy Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Deficiente||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Muy Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Muy Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Muy Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Muy Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Muy Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Muy Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Muy Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Muy Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Muy Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Muy Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Muy Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Muy Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Deficiente||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Muy Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Deficiente||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Muy Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Muy Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Muy Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Muy Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Inadecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Inadecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Inadecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Poco Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|muy bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|Debería ser semestral.||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|Muy buena organización. Respetan los horarios||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|capos||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|Buena predisposicion de parte de los JTP||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|.||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|Cátedra muy organizada. Excelente dedicacion de los profesores||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|.||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|ninguna  ||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|nada||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|No opina. ||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|Poca participación de los ayudantes de la catedra||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|.||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|Muy bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|clases muy interesantes||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|.||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|.||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|.||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|EXCELENTE CÁTEDRA, MUY BIEN ORGANIZADA.||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|....||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|.||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|Muy bien organizada la cátedra  ||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|. ||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|Excelente Catedra muy buen equipo de trabajo.||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|Muy bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|No opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|Me pareció  una muy buena materia||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|no opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|No opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|Sin comentarios||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|;)||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|NO OPINA||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|La cátedra mas organizada. ||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|.||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:| .||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|Las teorías de Flashcland lo mejor!!||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|Conforme||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|buena catedra||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|-z  ||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|no opino||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|UN BUEN DESTACAMIENTO POR PARTE DE LA CATEDRA||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|sin comentarios  ||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|ninguna||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|m||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|BUENO||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|Bueno||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|no opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|No opino ||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|a||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|....||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|no opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|MUY BUENO||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|No opino||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|.||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|Sin comentarios al respecto||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|NO OPINA||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|No Opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|no opino||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|Ninguna a dar!!!||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|Buena||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|.||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|SIN COMENTARIOS  ||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|Excelente asignatura ||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|ninguna||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|no opino||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|Ninguna ||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|.||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|MARASI TE QUIERO||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|MUY BUENO||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|Ninguna||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|no opino||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|no opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|.||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|.||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|ninguna||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|No Opino||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|MUY  BUENA||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|ninguna||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|Muy buena catedra||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|Ninguna ||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|Muy buenas clases||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|--||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|ninguna  ||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|MUY BUENOS CONTENIDOS Y PROFESORES||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|Muy buena cátedra, tanto para el dictado de la asignatura, y en cuanto a estar presentes en todo momento para poder resolver nuestras dudas e inquietudes.||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|excelente, una de las mejores cursadas.||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|Excelentes clases. ||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|No opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|1||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|Muy buena cátedra, muy organizada y muy bien comunicada con los alumnos.  Destaco el buen uso que la cátedra le dá al transparente que poseen, el cual fué actualizado siempre al menos una vez por semana y donde siempre se avisó todo lo que sea pertinente a los alumnos.  También destaco la rapidez para corregir los parciales, los cuales siempre fueron corregidos en el mismo día.||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|ADECUADO||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|--||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|no opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|No opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|Buena predisposición||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|NO||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|Pienso que TODOS los docentes (no solo algunos) que dictan las diferentes teorías deberían compartir con los alumnos sus power point de las clases que dan, dejándolos en el centro de estudiantes o permitiéndonos copiarlos con un pen drive. Por que pienso que de esa manera los alumnos podemos complementar el material de estudio, tanto como para los parciales como para las clases practicas. ||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|NO OPINA||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|No opina||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|MUY BUENA||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|.||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|..||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|Muy buena cátedra ||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|ninguna||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|sin observaciones||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|ninguna||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|ninguna||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|conforme con la asignatura, especialmente con los distintos experimentos.||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|ninguna||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|ninguna||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|SATISFACTORIO||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|ni una||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|FISIOLOGIA  VEGETAL (61.)|CATEDRAS|10007|Observaciones:|MUY BUENO||--

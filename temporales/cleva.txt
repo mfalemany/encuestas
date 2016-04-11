@@ -1,0 +1,1273 @@
+Encuesta|Elemento evaluado|Bloque|Código de Pregunta|Pregunta|Valor de Respuesta|Usuario|Respondido por
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Deficiente||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Deficiente||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Regular||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Regular||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Poco Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Regular||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Insuficiente||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Nunca||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Nunca||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Nunca||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|A veces||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|A veces||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Nunca||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|A veces||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|A veces||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|A veces||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Inadecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Inadecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Inadecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Deficiente||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Regular||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Deficiente||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Regular||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:| muy buen profesor||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|NINGUNA||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|no opino||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|NO OPINA||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|no opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|conforme||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|Nada||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|NINGUNA||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|w||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|No opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|Ninguna||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|Ninguna||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|no hay observaciones||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|..||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|no opino||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|bien||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|Me parece un profesor excelente, solo he tenido una clase con el, pero bastó para poder tener una opinión al respecto. Es excelente profesor y se esfuerza para que sus alumnos entiendan. ||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|...||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|A||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|No opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|NO OPINA||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|NO TUVE CON EL DOCENTE.  ||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|NO OPINA||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|ninguno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|!||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|NO OPINO||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|ninguna||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|excelente profesor||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|No forme parte de su grupo de practicos||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|NO OPINO.||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|no opino||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|Buenas clases.||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|no opino.||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|No fue mi profesor de prácticos.||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|NO OPINAR||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|NO OPINO||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|..||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|buena||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|Mis clases no fueron dictadas por Cleva Mario Sergio.||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|no opino||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|No opina.||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|...||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|ninguna||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|Excelente docente, muy preocupado porque sus alumnos aprendan y entiendan mas que nada. Siempre a disposición de los alumnos sea el dia y la hora que sea para ayudarnos y sacarnos dudas. Post parcial siempre se preocupa en consultar como nos ha ido en el examen||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|Los profesores tendrían que explicar todos los problemas de las series.||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|..||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:| no tuve clases con el  ||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|ninguna||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|Clases muy buenas y didácticas ||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|No opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|NO OPINA||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|NINGUNA||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|Ninguna||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|....-||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|.-.||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|no fue mi profesor ||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|Buena clase ||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|No opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|EXCELENTE PROFESOR..SIEMPRE A PIE DE CAÑON PARA CUALQUIER INQUIETUD!! ||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|NO OPINA||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|muy bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|Ino opina  ||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|no||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|Buenas clases||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|Ninguna||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|no opino||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|no opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|-----------||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|No opino||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|no hay observaciones ||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|Buena||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|Ninguna||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|NO OPIN||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|Bien||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|NO||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|Ninguna ||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|no tuve este profesor||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|no opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|buena||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|Muy bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|es una Genio.||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|Capacidad necesaria para brindar una case.||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|No opino||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|'||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|Bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|No tuve clases con este profesor.||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|No opino||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|regular||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|A||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|no fue mi profesor||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|No tengo observaciones para hacer, muy buenas clases.||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|no opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|no opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|no opino||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|NINGUNA||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|Exelente||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|ninguna||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|No opino||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|NO REALIZO OBSERVACIONES||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|´P||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|Excelente profesor||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|no opino||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|sfsd||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|Ninguna||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|No opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|Sin observaciones||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|Exelente profesor, sabe mucho.||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|bueno||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|NO OPINA||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|muy buen desarrollo y disposicion del docente en las clases.||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|ninguna||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|BUENO  ||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|no lo tuve de profesor||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|...||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|. ||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|no opina||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|------||--
+ENCUESTA DOCENTE|CLEVA MARIO  SERGIO|DOCENTE|10007|Observaciones:|no opina||--

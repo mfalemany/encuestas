@@ -1,0 +1,113 @@
+Encuesta|Elemento evaluado|Bloque|Código de Pregunta|Pregunta|Valor de Respuesta|Usuario|Respondido por
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Poco Pertinentes||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|No Opina||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Pertinentes||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10001|Si se realizaron salidas a campo, considera que fueron:|Muy Pertinentes||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Alta||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Alta||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Excesiva||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Alta||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Alta||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10002|¿Cómo considera que fueron las exigencias para regularizar y/o promover la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Más del doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Más del doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Más del doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Más del doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|El doble de tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10003|¿Cuánto tiempo fuera del horario de clases necesitó Ud. para cumplimentar con las exigencias de la asignatura?|Semejante al tiempo de horas de clase||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Deficiente||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Muy Bueno||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Regular||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Muy Bueno||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10004|¿Cómo juzga su preparación previa para el cursado de esta asignatura?|Bueno||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10005|¿Cómo considera que son los espacios físicos destinados al dictado de las clases en relación al número de alumnos que cursan la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|No Opina||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Muy Adecuado||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10006|¿Cómo considera que es el material y/o equipamiento (didáctico, laboratorios, técnicos) para las exigencias de aprendizaje de la asignatura?|Adecuado||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10007|Observaciones:|NINGUNA  ||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10007|Observaciones:|no opina||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10007|Observaciones:|bueno todo||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10007|Observaciones:|No opina.||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10007|Observaciones:|clase muy didactica  ||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10007|Observaciones:|ninguna||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10007|Observaciones:|Es una catedra muy bien organizada, con docentes que saben lo que hacen. ||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10007|Observaciones:|no opino||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10007|Observaciones:|.||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10007|Observaciones:|Ninguna||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10007|Observaciones:|no opina||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10007|Observaciones:|muy bien||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10007|Observaciones:|-||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10007|Observaciones:|Exelentes clases||--
+ENCUESTA CÁTEDRA|AGROCLIMATOLOGÍA (56.)|CATEDRAS|10007|Observaciones:|muy bueno||--

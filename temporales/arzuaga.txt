@@ -1,0 +1,1001 @@
+Encuesta|Elemento evaluado|Bloque|Código de Pregunta|Pregunta|Valor de Respuesta|Usuario|Respondido por
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Deficiente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Deficiente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Deficiente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Regular||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Deficiente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Regular||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Deficiente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Deficiente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Deficiente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Deficiente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Deficiente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Deficiente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Deficiente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Deficiente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Regular||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Poco Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Poco Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Poco Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Regular||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Insuficiente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Insuficiente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Insuficiente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Regular||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Insuficiente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Insuficiente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Insuficiente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Regular||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Insuficiente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Regular||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Regular||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Insuficiente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Regular||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Nunca||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Nunca||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Nunca||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Nunca||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Nunca||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|A veces||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|A veces||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|A veces||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Nunca||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Nunca||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Inadecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Inadecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Inadecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Poco Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Inadecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Poco Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Poco Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Poco Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Inadecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Deficiente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Deficiente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Regular||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Regular||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Deficiente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Deficiente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Deficiente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Regular||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Regular||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Deficiente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Regular||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Deficiente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Deficiente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Deficiente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Deficiente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Deficiente||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|COMPETENTE||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|poca predisposición. no explica bien ni tiene ganas de hacerlo. no tiene ganas de dar la clase||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|de donde sacan estos profesores? deberia ser mas dificil el examen de JTP, no hicimos ams que perder tiempo en la cursada||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|ninguna  ||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|nada||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|no fue mi profesora||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|No opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|,,,,||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|Xxx||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|NO OPINA||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|muy bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|Muy bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|Es una buena profesora pero habeces es mejor que la de las clases la ing soledad ||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|:)||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|NO OPINA||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|hasta el momento, la PEOR profesora, muy mala didáctica, poca intensión de mejorar. Un desperdicio los practicos||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|Buena||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|Conforme.||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|no opino||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|Ninguna||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|ninguna||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|m||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|No opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|dsds||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|no opino porque no la tuve de profesora||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|Falta didáctica. No se puede tener a alguien que no sabe explicar sus conocimientos frente a una clase. Será muy capaz en otras actividades, pero la docencia no creo que sea lo suyo, o al menos eso fue lo que demostró en la cursada.  Uno cuando está al frente de una clase no tiene que complicar las cosas, las debe hacer más fáciles y simples, y mas estando en ingeniería. El profesor no va a que lo idolatren, sino a demostrar todo lo que sabe, a responder inquietudes, a incentivar la curiosidad y el interés por la carrera y el estudio de las ciencias que la componen.||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|no opino||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|No opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|Buena profesora||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|no opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|MUY APLICADO Y CLASES MUY DINAMICAS EXELENTE||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|No opina  ||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|Sugiero un poco mas de animidad a la clase, y poder responder las inquietudes a los alumnos. La ingeniera sinceramente no explica bien||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|No Opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|NO OPINA||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|A||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|ninguna||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|no opino||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|BUENO||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|IRREGULAR||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|Buen dictado ||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|..||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|muy bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|Gkhji||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|--||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|NINGUNA||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|Muy bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|BUENA DOCENTE||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|buena profesora.||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|Nos dejo mas dudas,ya que ella al resolver  los problemas se complicaba y no sabia explicar ||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|En algunas ocasiones la clase fue un poco desorganizada, mas allá de eso las clases fueron buenas.||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|NO OPINOO||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|NO OPINA||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|--  ||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|No opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|NO OPINA||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|No opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|No opina||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|...||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|Muchos temas no los sabe explicar o simplemente no los sabe. Al preguntar se enoja y no sabe responder. ||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|ninguno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|No tuve clases con la docente Arzuaga||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:| ||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|Me gusto las practicas||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|sin observaciones||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|Me toco participar en 3 clases con la ingeniera Arzuaga y claramente fueron las 3 peores clases del trimestre. poca claridad en la explicacion, poca autoridad para llevar adelante su clase, poca predisposicion a responder consultas, respuestas erroneas. En fin, un punto flojo en una catedra que tiene gente tan capacitada para la docencia.||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|buen profesor!||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|No tiene la pedagogía adecuada para dar una clase. ||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|BUENA||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|buena profesora||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|NINGUNA||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|Bueno||--
+ENCUESTA DOCENTE|ARZUAGA SILVIA AMANDA|DOCENTE|10007|Observaciones:|MUY BUENA||--

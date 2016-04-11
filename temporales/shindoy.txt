@@ -1,0 +1,1137 @@
+Encuesta|Elemento evaluado|Bloque|Código de Pregunta|Pregunta|Valor de Respuesta|Usuario|Respondido por
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Regular||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Regular||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Deficiente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Regular||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Regular||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Regular||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Regular||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Deficiente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Deficiente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Regular||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Regular||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Regular||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Regular||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Regular||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Regular||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Regular||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Deficiente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Deficiente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Deficiente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Regular||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Regular||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Poco Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Poco Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Poco Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Poco Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Poco Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Poco Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Poco Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Poco Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Poco Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Poco Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Regular||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Regular||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Insuficiente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Regular||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Insuficiente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Regular||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Regular||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Regular||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Insuficiente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Regular||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Regular||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Regular||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Insuficiente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Regular||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Regular||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Regular||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Insuficiente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Insuficiente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Nunca||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Nunca||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Nunca||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Nunca||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Nunca||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Nunca||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Nunca||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|A veces||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|A veces||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|A veces||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|A veces||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Nunca||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Nunca||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Inadecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Poco Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Poco Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Poco Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Inadecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Poco Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Poco Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Poco Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Poco Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Poco Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Inadecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Inadecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Poco Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Deficiente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Regular||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Deficiente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Regular||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Regular||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Regular||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Deficiente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Regular||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Deficiente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Regular||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Regular||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Regular||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Regular||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Regular||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Deficiente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Deficiente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Deficiente||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Regular||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|muy buen profesor||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|,||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|No opina  ||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|gracias ||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|no opino||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|Muy bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|Tiene ganas de enseñar, muy buen profesor.||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|Excelente profesor ||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|MUY BUENAS CLASES PRACTICAS||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|conforme||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|Nada||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|NINGUNA||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|d||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|Mas tiempos para el desarrollo de la materia||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|Ninguna||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|No opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|no hay observaciones||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|muy bien||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|buena||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|no se||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|Me pasó que sinceramente no lo entendia en las clases, y se esforzaba, pero no se hacia entender algunas veces, varias cosas no me gustaron de el, pero no tengo muchas quejas al respecto.||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|No opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|sin observaciones||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|No hay observaciones||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|NO OPINA||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|NO OPINA||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|ninguno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|ninguna||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|Regular||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|NO OPINO||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|NO OPINO.||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|Buena ||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|Buenas clases.||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|a||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|buena||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|NO OPNAR||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|ninguna||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|...||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|ok||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|varias...||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|no opino||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|....||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|...||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|No opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|NI OPINI||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|NO OPINA||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|no opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|. . . . ||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|Ninfuna||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|BUENO||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|no opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|NINGUNA||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|Ninguna||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|...-||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|.....-.||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|excelente docente ||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|No Opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|no permitido||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|ninguna||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|no fue mi profesor ||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|No opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|NO OPINA||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|muy bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|no opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|...||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|No opino.||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|no||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|Buenas clases||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|Ninguna||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|ninguna||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|Muy bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|l||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|Bien||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|no tuve este profesor||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|'||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|No tuve clases con este docente.||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|ninguna||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|ninguna||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|No opino||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|53||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|No opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|No opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|No opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|muy bueno ||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|no opino||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|Ninguna||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|No opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|Sin observaciones||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|. ||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|ninguna||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|No opina||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|NO OPINA||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|no opino||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|BUENO||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|Bueno  ||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|--------||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|...||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|. ||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|Bue Bueno||--
+ENCUESTA DOCENTE|SHINDOI MAURO MASAKICHI JEREMIAS F|DOCENTE|10007|Observaciones:|||--

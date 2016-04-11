@@ -1,0 +1,529 @@
+Encuesta|Elemento evaluado|Bloque|Código de Pregunta|Pregunta|Valor de Respuesta|Usuario|Respondido por
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Regular||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Deficiente||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Deficiente||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10008|¿Cómo fue el manejo del Docente respecto a los temas desarrollados?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Poco Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Poco Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Poco Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Poco Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Poco Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Muy Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10009|Los temas desarrollados por el Docente se comprendieron de manera:|Satisfactoria||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Insuficiente||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Regular||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10010|¿Cuál fue la disposición del Docente para responder a las inquietudes de los alumnos?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Nunca||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Nunca||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Frecuentemente||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|A veces||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10011|¿El Docente mantuvo el interés y la amenidad en clase?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Nunca||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|A veces||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|A veces||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Frecuentemente||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Nunca||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10012|¿El Docente respetó los horarios de clases acordados?|Siempre||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Poco Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Inadecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Poco Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Poco Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Poco Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Muy Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10013|¿Cómo fue el uso de los recursos didácticos (pizarrón, multimedia, parcelas demostrativas, otros) por parte del Docente?|Adecuado||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Regular||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Regular||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Regular||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Regular||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Regular||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|No Opina||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10014|¿Cuál es su opinión general sobre el desempeño del Docente?|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|buena||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|BUENO||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|asd||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|Ninguna||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|ninguna||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|Ninguna||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|se va mucho por las ramas haciendo las clases largas y aburridas, a la hora de responder una pregunta da muchas vueltas sin dejar nada claro||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|**||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|muy bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|no curse||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|BUENO||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|Hizo mucho hincapié en la parte de citricultura, y no tanto en lo que respecta al resto de los frutales||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|excelente||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|no opino||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|Buenas clases,solo que algunas veces se extendía demasiado.||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|...||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|..||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|excelente docente||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|Muy Bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|Hay veces que hablaba demasiado y no concluia a nada, o sea no llegaba a terminar con la idea||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|bueno||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|mucho interes||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|##||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|a||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|No opino ||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|..||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|ninguna||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|,||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|Buen docente. Un poco cascarrabias. pero en general se desempeño bien dando clases precisas y concretas.||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|ninguna||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|ECXELENTE PROFESOR||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|no dio ninguna clase||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|.||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|NINUNA||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|,||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|-||--
+ENCUESTA DOCENTE|RODRIGUEZ VICTOR ANTONIO|DOCENTE|10007|Observaciones:|ninguna||--
