@@ -8,11 +8,11 @@
 		private $nombre_elemento;
 		private $tipo_elemento;
 		private $cant_respuestas;
-		public $obs_omitidas;
+		private $obs_omitidas;
 
 		function __construct($archivo_resultados){
-			$this->obs_omitidas = 0;
-			$this->set_error("");
+			$this->set_obs_omitidas(0);
+			$this->set_error(NULL);
 			$this->set_preguntas(array());
 			$this->set_observaciones(array());
 			$this->set_nombre_elemento("");
@@ -58,7 +58,9 @@
 		public function set_cant_respuestas($cantidad){
 			$this->cant_respuestas = $cantidad;
 		}
-		
+		public function set_obs_omitidas($cant){
+			$this->obs_omitidas = $cant;
+		}
 		public function get_error(){
 			return $this->error;
 		}
@@ -77,13 +79,16 @@
 		public function get_cantidad_respuestas(){
 			return $this->cant_respuestas;
 		}
+		public function get_obs_omitidas(){
+			return $this->obs_omitidas;
+		}
 
 		
 		private function agregar_observacion($obs){
 			$ignorar = array("/^[\.\-\,\ ]+$/","/no.*tu/i","/no.*ten/i","/no fue mi/i","/no opin/i","/sin coment/i","/^ningun./i","/^sin observ/i","/no hay observ/i");
 			if(strlen($obs) <= 8){
 				
-				$this->obs_omitidas++;
+				$this->set_obs_omitidas($this->get_obs_omitidas() + 1);
 				return false;
 			}
 			foreach($ignorar as $patron){
@@ -93,7 +98,7 @@
 						array_push($this->observaciones,$obs);	
 						return true;
 					}else{
-						$this->obs_omitidas++;
+						$this->set_obs_omitidas($this->get_obs_omitidas() + 1);
 						return false;	
 					}
 				}
