@@ -17,7 +17,7 @@
 			$this->set_observaciones(array());
 			$this->set_nombre_elemento("");
 			$this->set_tipo_elemento("");
-			$this->set_cant_respuestas(0);
+			
 			
 			if($archivo_resultados){
 				$this->leer_archivo_resultados($archivo_resultados);
@@ -55,9 +55,7 @@
 		public function set_tipo_elemento($tipo_elemento){
 			$this->tipo_elemento = $tipo_elemento;
 		}
-		public function set_cant_respuestas($cantidad){
-			$this->cant_respuestas = $cantidad;
-		}
+		
 		public function set_obs_omitidas($cant){
 			$this->obs_omitidas = $cant;
 		}
@@ -76,9 +74,7 @@
 		public function get_tipo_elemento(){
 			return $this->tipo_elemento;
 		}
-		public function get_cantidad_respuestas(){
-			return $this->cant_respuestas;
-		}
+		
 		public function get_obs_omitidas(){
 			return $this->obs_omitidas;
 		}
@@ -112,16 +108,16 @@
 
 		private function leer_archivo_resultados($ubicacion){
 			$archivo = fopen($ubicacion,"r");
-			
+			$cant_respuestas = 0;
 			while($registro = fgets($archivo) ){
 				
 				//obtengo campos por separado
 				$campos = explode("|", $registro);
 				
 				//esta fila contiene los encabezados 
-				if($this->get_cantidad_respuestas() > 0){
+				if($cant_respuestas > 0){
 					//solo en el primer registro, obtengo 
-					if($this->get_cantidad_respuestas() == 1){
+					if($cant_respuestas == 1){
 						//obtengo el nombre del docente/catedra
 						$this->set_nombre_elemento($campos[1]);
 						$this->set_tipo_elemento($campos[2]);
@@ -144,7 +140,7 @@
 						}
 					}
 				}	
-			$this->cant_respuestas++;	
+				$cant_respuestas++;	
 			}
 		}
 	}
