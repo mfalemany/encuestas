@@ -2,14 +2,14 @@
 	require_once("reporte_encuesta.php");
 	
 	class ProcesadorResultados{
-		private $error;
+		private $error; //contiente detalles de errores en caso de ocurrir
 		private $preguntas;
 		private $observaciones;
-		private $nombre_elemento;
-		private $tipo_elemento;
-		private $cant_respuestas;
-		private $obs_omitidas;
+		private $nombre_elemento; //Contiene un nombre de catedra o de docente
+		private $tipo_elemento; //Indica si la encuesta es de docente o de catedra
+		private $obs_omitidas; //Almacena la cantidad de observaciones omitidas
 
+		//constructor de clase
 		function __construct($archivo_resultados){
 			$this->set_obs_omitidas(0);
 			$this->set_error(NULL);
@@ -18,9 +18,13 @@
 			$this->set_nombre_elemento("");
 			$this->set_tipo_elemento("");
 			
-			
+			//si se pasó como parametro un nombre de archivo
 			if($archivo_resultados){
 				$this->leer_archivo_resultados($archivo_resultados);
+				if($this->get_error()){
+					echo "Ocurri&oacute; el siguiente error: ".$this->get_error();
+					die;
+				}	
 			}else{
 				$this->set_error("No se ha seleccionado ningun archivo o no pudo accederse al mismo.");
 			}
@@ -107,28 +111,45 @@
 		}
 
 		private function leer_archivo_resultados($ubicacion){
+
+			//si el archivo no existe o no ex válido
+			if( ! is_file($ubicacion)){
+				$this->set_error("No se ha podido encontrar el fichero o no es valido");
+				return FALSE;
+			}
+			
+			// variable que contiene el contenido del archivo en texto plano
 			$archivo = fopen($ubicacion,"r");
+
+			//inicializamos un contador
 			$cant_respuestas = 0;
+			
+			//mientras pueda leer una linea del fichero
 			while($registro = fgets($archivo) ){
 				
 				//obtengo campos por separado
 				$campos = explode("|", $registro);
 				
-				//esta fila contiene los encabezados 
+				/*esta fila contiene los encabezados  (tiene que ver con el formato del archivo generado por SIU-KOLLA) */
 				if($cant_respuestas > 0){
-					//solo en el primer registro, obtengo 
+					//solo en el primer registro
 					if($cant_respuestas == 1){
 						//obtengo el nombre del docente/catedra
 						$this->set_nombre_elemento($campos[1]);
 						$this->set_tipo_elemento($campos[2]);
 					}
-				
+					
+					//registro la pregunta y opcion actuales
 					$pregunta = $campos[4];
 					$opcion = $campos[5];
-					if( strtolower($pregunta) == "observaciones:" ){
+
+					/* En la Fac. Cs. Agrarias, el campo "Observaciones" es un cuadro de texto libre, por lo que no se contabilizan los resultados, sino que se muestran tal y como se cargaron en la encuesta (siempre que pasen ciertos filtros) */
+					if( preg_match("/^observac.*/",strtolower(trim($pregunta))) ){
 						//en este caso, $opcion es un comentario u observacion
 						$this->agregar_observacion($opcion);
+						
 					}else{
+						
 						if( ! array_key_exists($pregunta,$this->get_preguntas()) ){
 							$this->preguntas[$pregunta] = array();	
 						}
@@ -142,6 +163,7 @@
 				}	
 				$cant_respuestas++;	
 			}
+
 		}
 	}
 	
@@ -149,10 +171,9 @@
 	
 	if( move_uploaded_file ( $_FILES['archivo_encuestas']['tmp_name'] , "../temporales/".$_FILES['archivo_encuestas']['name'] ) ){
 		$datos = new ProcesadorResultados("../temporales/".$_FILES['archivo_encuestas']['name']);
-		
 		$reporte = new ReporteEncuesta($datos);	
 	}else{
-		echo "No se pudo subir el archivo de resultados: ";
+		echo "No se pudo subir el archivo de resultados: ".$datos->get_error();
 		die;
 	}
 ?>
