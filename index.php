@@ -5,6 +5,7 @@
 	<title>Procesador de Encuestas</title>
 	<script type="text/javascript" src="./assets/js/script.js"></script>
 	<link rel="stylesheet" type="text/css" href="./assets/css/estilos.css" />
+	<link href="favicon.ico" type="image/x-icon" rel="shortcut icon" />
 </head>
 <body>
 	
