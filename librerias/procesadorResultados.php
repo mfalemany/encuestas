@@ -11,12 +11,12 @@
 
 		//constructor de clase
 		function __construct($archivo_resultados){
-			$this->set_obs_omitidas(0);
-			$this->set_error(NULL);
-			$this->set_preguntas(array());
-			$this->set_observaciones(array());
-			$this->set_nombre_elemento("");
-			$this->set_tipo_elemento("");
+			$this->set_obs_omitidas();
+			$this->set_error();
+			$this->set_preguntas();
+			$this->set_observaciones();
+			$this->set_nombre_elemento();
+			$this->set_tipo_elemento();
 			
 			//si se pasó como parametro un nombre de archivo
 			if($archivo_resultados){
@@ -30,10 +30,10 @@
 			}
 		}
 
-		public function set_error($error){
+		public function set_error($error = FALSE){
 			$this->error = $error;
 		}
-		public function set_preguntas($preguntas){
+		public function set_preguntas($preguntas = array()){
 			if(is_array($preguntas)){
 				if(count($preguntas) > 0){
 					$this->preguntas = $preguntas;		
@@ -43,7 +43,7 @@
 			}
 			
 		}
-		public function set_observaciones($observaciones){
+		public function set_observaciones($observaciones = array()){
 			if(is_array($observaciones)){
 				if(count($observaciones) > 0){
 					$this->observaciones = $observaciones;		
@@ -53,14 +53,14 @@
 			}
 			
 		}
-		public function set_nombre_elemento($nombre_elemento){
+		public function set_nombre_elemento($nombre_elemento = "No definido"){
 			$this->nombre_elemento = $nombre_elemento;
 		}
-		public function set_tipo_elemento($tipo_elemento){
+		public function set_tipo_elemento($tipo_elemento = "No definido"){
 			$this->tipo_elemento = $tipo_elemento;
 		}
 		
-		public function set_obs_omitidas($cant){
+		public function set_obs_omitidas($cant = 0){
 			$this->obs_omitidas = $cant;
 		}
 		public function get_error(){
@@ -85,27 +85,33 @@
 
 		
 		private function agregar_observacion($obs){
+			//patrones que se ignoran por no contener observaciones y/o comentarios relevantes
 			$ignorar = array("/^[\.\-\,\ ]+$/","/no.*tu/i","/no.*ten/i","/no fue mi/i","/no opin/i","/sin coment/i","/^ningun./i","/^sin observ/i","/no hay observ/i");
+			
+			//Si la observacion tiene menos de 8 caracteres no es relevante
 			if(strlen($obs) <= 8){
-				
+				//se contabiliza como observacion omitida
 				$this->set_obs_omitidas($this->get_obs_omitidas() + 1);
-				return false;
+				return FALSE;
 			}
+			//se compara la observacion con los patrones definidos como irrelevantes
 			foreach($ignorar as $patron){
+				//si la obsevacion contiene el patrón
 				if( preg_match($patron,strtolower(trim($obs))) ){
 					//me aseguro que la porcion encontrada no sea parte de una observacion larga
 					if( strlen(trim($obs)) > 50){
 						array_push($this->observaciones,$obs);	
-						return true;
+						return TRUE;
 					}else{
+						//sino, se contabiliza como omitida
 						$this->set_obs_omitidas($this->get_obs_omitidas() + 1);
-						return false;	
+						return FALSE;	
 					}
 				}
 			}
 
-			array_push($this->observaciones,trim($obs) );
-			return true;	
+			array_push($this->observaciones,trim($obs));
+			return TRUE;	
 			
 			
 		}
@@ -149,14 +155,16 @@
 						$this->agregar_observacion($opcion);
 						
 					}else{
-						
+						//si todavía no existe la pregunta, la inicializo como indice del array
 						if( ! array_key_exists($pregunta,$this->get_preguntas()) ){
 							$this->preguntas[$pregunta] = array();	
 						}
 						$preg = $this->get_preguntas();
+						//si no existe la opcion dentro de la pregunta definida, la agrego como indice e inicializo en uno
 						if( ! array_key_exists($opcion, $preg[$pregunta]) ){
 							$this->preguntas[$pregunta][$opcion] = 1;
 						}else{
+							//si ya está definida, solo sumo uno
 							$this->preguntas[$pregunta][$opcion]++;
 						}
 					}
@@ -166,11 +174,13 @@
 
 		}
 	}
-	
-	
-	
+
+
+	// Si se recibió el archivo en el servidor, y se movio a la carpeta de temporales
 	if( move_uploaded_file ( $_FILES['archivo_encuestas']['tmp_name'] , "../temporales/".$_FILES['archivo_encuestas']['name'] ) ){
+		//proceso los resultados
 		$datos = new ProcesadorResultados("../temporales/".$_FILES['archivo_encuestas']['name']);
+		//y con los resultados ya procesados, genero el reporte de encuesta
 		$reporte = new ReporteEncuesta($datos);	
 	}else{
 		echo "No se pudo subir el archivo de resultados: ".$datos->get_error();
