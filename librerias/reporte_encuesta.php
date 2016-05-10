@@ -34,8 +34,9 @@
 		function generar($datos){
 			$this->AddPage();
 			/* ========== ENCABEZADO DE LA ENCUESTA: CATEDRA Y/O DOCENTE SI CORRESPONDE ========== */
-			$this->SetFont('Arial','B',10);
-			$this->SetFillColor(208,235,211);
+			$this->SetFont('Arial','B',11);
+			$this->setTextColor(255,255,255);
+			$this->SetFillColor(79,162,88);
 			//Cell(float w, float h, string txt, mixed border, int ln, string align, boolean fill, mixed link)
 			$this->setXY(10,50);
 
@@ -44,14 +45,26 @@
 			
 			//en el caso de catedra, esta linea me elimina el codigo de materia que aparece junto al nombre de la catedra
 			$this->SetFont('Arial','BU',15);
+			$this->setTextColor(10,10,10);
 			$nom_elem = explode("(",$datos->get_nombre_elemento());
 			$this->Cell(0,15,strtoupper( $nom_elem[0]  ),0,1,'C',false);
 			
 			
 			foreach ($datos->get_preguntas() as $pregunta => $opciones) {
+				//fuente
 				$this->SetFont('Arial','B',9);
-				$this->SetFillColor(228,255,231);
+				$this->setTextColor(20,20,20);
+				//color de relleno
+				$this->SetFillColor(235,255,238);
+				//color del borde
+				$this->SetDrawColor(20,20,20);
+
 				$this->MultiCell(0,6,$pregunta,1,'',true);
+				//Vuelvo a los valores de relleno, borde y texto normales
+				$this->setTextColor(0,0,0);
+				$this->SetFillColor(255,255,255);
+				$this->SetDrawColor(0,0,0);
+
 				$this->SetFillColor(255,255,255);
 				$total = 0;
 				//calculo primero el total, para poder determinar los porcentajes que representa cada pregunta
