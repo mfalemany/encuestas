@@ -1,7 +1,8 @@
 <?php 
 	require_once("reporte_encuesta.php");
 	
-	class ProcesadorResultados{
+	class ProcesadorResultados
+	{
 		private $error; //contiente detalles de errores en caso de ocurrir
 		private $preguntas;
 		private $observaciones;
@@ -10,7 +11,8 @@
 		private $obs_omitidas; //Almacena la cantidad de observaciones omitidas
 
 		//constructor de clase
-		function __construct($archivo_resultados){
+		function __construct($archivo_resultados)
+		{
 			$this->set_obs_omitidas();
 			$this->set_error();
 			$this->set_preguntas();
@@ -30,10 +32,12 @@
 			}
 		}
 
-		public function set_error($error = FALSE){
+		public function set_error($error = false)
+		{
 			$this->error = $error;
 		}
-		public function set_preguntas($preguntas = array()){
+		public function set_preguntas($preguntas = array())
+		{
 			if(is_array($preguntas)){
 				if(count($preguntas) > 0){
 					$this->preguntas = $preguntas;		
@@ -43,7 +47,8 @@
 			}
 			
 		}
-		public function set_observaciones($observaciones = array()){
+		public function set_observaciones($observaciones = array())
+		{
 			if(is_array($observaciones)){
 				if(count($observaciones) > 0){
 					$this->observaciones = $observaciones;		
@@ -53,38 +58,48 @@
 			}
 			
 		}
-		public function set_nombre_elemento($nombre_elemento = "No definido"){
+		public function set_nombre_elemento($nombre_elemento = "No definido")
+		{
 			$this->nombre_elemento = $nombre_elemento;
 		}
-		public function set_tipo_elemento($tipo_elemento = "No definido"){
+		public function set_tipo_elemento($tipo_elemento = "No definido")
+		{
 			$this->tipo_elemento = $tipo_elemento;
 		}
 		
-		public function set_obs_omitidas($cant = 0){
+		public function set_obs_omitidas($cant = 0)
+		{
 			$this->obs_omitidas = $cant;
 		}
-		public function get_error(){
+		public function get_error()
+		{
 			return $this->error;
 		}
-		public function get_preguntas(){
+		public function get_preguntas()
+		{
 			return $this->preguntas;
 		}
-		public function get_observaciones(){
+		public function get_observaciones()
+		{
 			return $this->observaciones;
 		}
-		public function get_nombre_elemento(){
+		public function get_nombre_elemento()
+		{
 			return $this->nombre_elemento;
 		}
-		public function get_tipo_elemento(){
+		public function get_tipo_elemento()
+		{
 			return $this->tipo_elemento;
 		}
 		
-		public function get_obs_omitidas(){
+		public function get_obs_omitidas()
+		{
 			return $this->obs_omitidas;
 		}
 
 		
-		private function agregar_observacion($obs){
+		private function agregar_observacion($obs)
+		{
 			//patrones que se ignoran por no contener observaciones y/o comentarios relevantes
 			$ignorar = array("/^[\.\-\,\ ]+$/","/no.*tu/i","/no.*ten/i","/no fue mi/i","/no opin/i","/sin coment/i","/^ningun./i","/^sin observ/i","/no hay observ/i");
 			
@@ -92,7 +107,7 @@
 			if(strlen($obs) <= 8){
 				//se contabiliza como observacion omitida
 				$this->set_obs_omitidas($this->get_obs_omitidas() + 1);
-				return FALSE;
+				return false;
 			}
 			//se compara la observacion con los patrones definidos como irrelevantes
 			foreach($ignorar as $patron){
@@ -101,27 +116,28 @@
 					//me aseguro que la porcion encontrada no sea parte de una observacion larga
 					if( strlen(trim($obs)) > 50){
 						array_push($this->observaciones,$obs);	
-						return TRUE;
+						return true;
 					}else{
 						//sino, se contabiliza como omitida
 						$this->set_obs_omitidas($this->get_obs_omitidas() + 1);
-						return FALSE;	
+						return false;	
 					}
 				}
 			}
 
 			array_push($this->observaciones,trim($obs));
-			return TRUE;	
+			return true;	
 			
 			
 		}
 
-		private function leer_archivo_resultados($ubicacion){
+		private function leer_archivo_resultados($ubicacion)
+		{
 
 			//si el archivo no existe o no ex válido
 			if( ! is_file($ubicacion)){
 				$this->set_error("No se ha podido encontrar el fichero o no es valido");
-				return FALSE;
+				return false;
 			}
 			
 			// variable que contiene el contenido del archivo en texto plano
@@ -186,4 +202,3 @@
 		echo "No se pudo subir el archivo de resultados: ".$datos->get_error();
 		die;
 	}
-?>
