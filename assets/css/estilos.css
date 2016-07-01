@@ -1,36 +1,13 @@
-*{
-	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-}
-#formulario{
-	margin: 50px auto auto auto;
-	width: 500px;
-}
-#formulario h1{
-	background-color: #056E96;
+#encabezado{
+	background-color: #39606F;
 	color: #FFFFFF;
-	font-size: 1em;
-	padding: 10px 10px 10px 10px;
+	padding: 5px 0px 5px 0px;
 	text-align: center;
 }
-#archivo{
-	border-radius: 10px;
-	background-color: #fff;
-	border: 2px solid #666;
-	color: #000;
-	margin: 3px 0px 3px 0px;
-	padding: 5px 0px 5px 15px;
-	width: 90%;
-}
-#btn_procesar{
-	border-radius: 10px;
-	background-color: #1BC174;
-	border: 2px solid #0AB063;
-	color: #FFFFFF;
-	font-size: 1em;
-	font-weight: bolder;
-	margin: 3px 0px 3px 0px;
-	padding: 5px 15px 5px 15px;
-	width: 100%;
+form h4{
+	background-color: #CBEBF8;
+	text-align: center;
+	padding: 3px 0px 3px 0px;
 }
 
 #contenedor_error{
@@ -44,5 +21,23 @@
 	margin: 10px auto 0px auto;
 	padding: 4px 10px 4px 10px;
 	text-align: center;
-	width: 50%;
+	width: 80%;
 }
+
+#datos_docente, #datos_catedra{
+	border: 1px solid black;
+}
+.row{
+	margin-bottom: 5px;
+}
+.num_file{
+	background-color: #46895A; 
+	border-radius: 40px;
+	color: #FFFFFF;
+	font-weight: bold;
+	line-height: 1em;
+	margin:0px;
+	padding: 0px 5px 0px 5px;
+
+}
+
