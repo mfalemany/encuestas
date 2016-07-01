@@ -42,11 +42,13 @@
 		function generar($datos){
 			$this->AddPage();
 			
-			//imprimo el año actual
-
+			
+			//imprimo el encabezado
 			$this->set_fuente("Arial",18,array(0,0,0),array(0,0,0),'BU',array(0,0,0));
 			$this->setXY(8,20);
 			$this->Cell(0,16,"REPORTE DE ENCUESTAS",0,1,'C',false);
+			//imprimo el año actual
+			$this->set_fuente("Arial",15,array(0,0,0),array(0,0,0),'BU',array(0,0,0));
 			$this->setXY(86,33);
 			$this->Cell(30,5,date("Y"),0,1,'C',false);
 
