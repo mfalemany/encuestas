@@ -25,27 +25,33 @@
 		</div>			
 		<!-- ########################################################################################## -->	
 
-	
+		<!-- ############################ SELECCI? DE A? ############################################ -->
+		<div class="row">
+			<div class="col-xs-10" style="text-align:right;">
+				Año de la encuesta:
+			</div>	
+			<div class="col-xs-2">
+				<input type="number" name="anio_encuesta" value="2020" required="">
+			</div>	
+		</div>
+
 		<!-- ############################ RESULTADOS DE ENCUESTAS A DOCENTE ########################### -->
 		<div class="row">
 			<div class="col-xs-12" id="datos_docente">
 				
 				<div class="form-group" id="archivos_docente">
-					<p class="help-block">Seleccione los archivos, exportados del SIU-Kolla, que contengan los resultados de encuestas.</p>
+					<p class="help-block" style="background-color:#428442; color:#FFF; padding: 2px 0px 2px 10px;">
+						Seleccione los archivos, exportados del SIU-Kolla, que contengan los resultados de encuestas.
+					</p>
 					<!-- ############ SE REPITE POR CADA ARCHIVO ###################-->
 					
 					<div class="form-inline">
-						<span class="num_file">1</span><input type="file" name="file_doc_1" id="file_doc_1" class="form-control btn btn-xs"  />
+						<input type="file" name="resultados[]" id="resultados" class="form-control btn btn-xs" multiple="multiple" />
 					</div>
 					<!-- ###########################################################-->	
 				</div>
 			</div>
 		</div>	
-		<div class="row">
-			<div class="col-xs-12">
-				<input type="button" class="btn btn-success btn-xs" value="Agregar resultado docente" id="add_arch_doc">
-			</div>
-		</div>
 		<!-- ########################################################################################## -->	
 		
 
@@ -66,7 +72,7 @@
 	<!-- Script de jQuery -->
 	<script type="text/javascript" src="./assets/js/jquery.min.js"></script>
 	<!-- Script de la aplicacion -->
-	<script type="text/javascript" src="./assets/js/script.js"></script>
+	<!-- <script type="text/javascript" src="./assets/js/script.js"></script> -->
 	<!-- Script de Bootstrap -->
 	<script type="text/javascript" src="./assets/js/bootstrap.min.js"></script>
 	
